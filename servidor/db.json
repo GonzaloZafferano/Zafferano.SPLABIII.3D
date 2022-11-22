@@ -1,0 +1,64 @@
+{
+  "mascotas": [
+    {
+      "id": 1669159314761,
+      "titulo": "Venta de perro",
+      "descripcion": "Blanco",
+      "animal": "perro",
+      "precio": "$1.234",
+      "raza": "pitbull",
+      "fecha": "11/12/2022",
+      "vacuna": "si"
+    },
+    {
+      "id": 1669159373908,
+      "titulo": "Venta de Perro",
+      "descripcion": "Negro",
+      "animal": "perro",
+      "precio": "$4.500",
+      "raza": "doberman",
+      "fecha": "11/12/2022",
+      "vacuna": "si"
+    },
+    {
+      "id": 1669159416889,
+      "titulo": "Venta de Gato",
+      "descripcion": "Gris",
+      "animal": "gato",
+      "precio": "$2.300",
+      "raza": "Persa",
+      "fecha": "11/12/2001",
+      "vacuna": "si"
+    },
+    {
+      "id": 1669159509987,
+      "titulo": "Venta de Gato",
+      "descripcion": "Negro",
+      "animal": "gato",
+      "precio": "$4.321",
+      "raza": "Siberiano",
+      "fecha": "11/12/2022",
+      "vacuna": "si"
+    },
+    {
+      "id": 1669159550840,
+      "titulo": "Venta de Gato",
+      "descripcion": "Blanco",
+      "animal": "gato",
+      "precio": "$3.333",
+      "raza": "Siames",
+      "fecha": "11/12/2022",
+      "vacuna": "si"
+    },
+    {
+      "id": 1669159584364,
+      "titulo": "Venta de Perro",
+      "descripcion": "Manchas",
+      "animal": "perro",
+      "precio": "$4.497",
+      "raza": "Dalmata",
+      "fecha": "11/12/2002",
+      "vacuna": "si"
+    }
+  ]
+}
